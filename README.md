@@ -11,7 +11,7 @@
 ### **Purpose:**
 * To establish familiarity with
     * Control Flow
-    * Conditionals
+    * Conditionals 
     * User input
     * The `Random` class
     * Object instantation/declaration
